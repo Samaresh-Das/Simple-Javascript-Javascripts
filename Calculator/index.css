@@ -1,0 +1,29 @@
+html{
+    height: 100vh;
+}
+
+body{
+    background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+
+.col-md-6{
+ background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    margin-top: 10% !important;
+    padding: 10px !important;
+}
+
+input[type=button]{
+    width: 100%;
+    background-color: #3a86ff;
+    border: none !important;
+    border-radius: 5px !important;
+    font-weight: bolder;
+}
+input[type=text]{
+    width: 100%;
+}
+
+h1{
+    font-weight: bolder;
+    margin-top: 15px !important;
+}
