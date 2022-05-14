@@ -1,5 +1,5 @@
 html{
-    height: 100vh;
+    height: 100%;
 }
 
 body{
@@ -21,4 +21,18 @@ input{
 button{
     margin-top: 20px !important;
     float: left;
+}
+
+.success{
+    border: 3px solid #80ed99 !important;
+}
+
+.error{
+    border: 3px solid #e76f51 !important;
+}
+
+small{
+    color: #d62828;
+    font-weight: bold;
+    margin: 5px;
 }
